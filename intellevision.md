@@ -1,0 +1,2 @@
+## Historia
+La Intellivision fue desarrollada por Mattel Electronics, una subsidiaria formada expresamente para el desarrollo de **juegos electrónicos**. La consola fue probada en Fresno, California, en 1979 con un total de cuatro juegos disponibles, y se lanzó en todo Estados Unidos en 1980 con un coste de 299 dólares y un juego de regalo: Las Vegas Poker & Blackjack. A pesar de no ser el primer sistema que se enfrentó a Atari (sistemas hechos por Fairchild Semiconductor, Bally, y _Magnavox_ ya estaban en el mercado)
